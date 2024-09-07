@@ -189,4 +189,164 @@ let dados = [
         tags: "dribles, arremesso, campeão, All-Star, manejador de bola"
     },
 
+    {
+        titulo: "Russell Westbrook",
+        descricao: "Armador explosivo e conhecido por seus triplos-duplos.",
+        link: "https://pt.wikipedia.org/wiki/Russell_Westbrook",
+        tags: "Westbrook, triplos-duplos, atlético"
+      },
+
+      {
+        titulo: "Damian Lillard",
+        descricao: "Armador do Portland Trail Blazers, conhecido por seus arremessos de longa distância.",
+        link: "https://pt.wikipedia.org/wiki/Damian_Lillard",
+        tags: "Lillard, Trail Blazers, arremessos de longa distância"
+      },
+
+      {
+        titulo: "Joel Embiid",
+        descricao: "Camaronês naturalizado americano, pivô dominante com habilidades ofensivas e defensivas.",
+        link: "https://pt.wikipedia.org/wiki.org/Joel_Embiid",
+        tags: "Embiid, Sixers, pivô, dominante"
+      },
+
+      {
+        titulo: "Chris Paul",
+        descricao: "Christopher Emmanuel Paul é um armador norte-americano, conhecido por sua habilidade de passar a bola e liderar suas equipes. Ele é considerado um dos melhores armadores da história da NBA.",
+        link: "https://pt.wikipedia.org/wiki/Chris_Paul",
+        tags: "CP3, passes, armador, All-Star, líder, lenda"
+    },
+    
+    {
+        titulo: "Patrick Ewing",
+        descricao: "Patrick Aloysius Ewing é um ex-jogador de basquete jamaicano-americano, conhecido por sua presença dominante no garrafão. Ele passou a maior parte de sua carreira no New York Knicks.",
+        link: "https://pt.wikipedia.org/wiki/Patrick_Ewing",
+        tags: "Knicks, pivô, All-Star, dominante, lenda"
+    },
+    
+    {
+        titulo: "Dwyane Wade",
+        descricao: "Dwyane Tyrone Wade Jr. é um ex-armador norte-americano, conhecido por sua agilidade e capacidade de pontuar. Ele conquistou três títulos da NBA com o Miami Heat.",
+        link: "https://pt.wikipedia.org/wiki/Dwyane_Wade",
+        tags: "Wade, Heat, 3 títulos, All-Star, MVP, lenda"
+    },
+    
+    {
+        titulo: "Isiah Thomas",
+        descricao: "Isiah Lord Thomas III é um ex-armador norte-americano, conhecido por sua liderança e habilidade de controlar o ritmo do jogo. Ele conquistou dois títulos da NBA com o Detroit Pistons.",
+        link: "https://pt.wikipedia.org/wiki/Isiah_Thomas",
+        tags: "Pistons, armador, líder, 2 títulos, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Allen Iverson",
+        descricao: "Allen Ezail Iverson é um ex-armador norte-americano, conhecido por seu estilo de jogo agressivo e dribles rápidos. Ele é um dos maiores jogadores a nunca ter conquistado um título da NBA.",
+        link: "https://pt.wikipedia.org/wiki/Allen_Iverson",
+        tags: "AI, Sixers, dribles, All-Star, MVP, lenda"
+    },
+    
+    {
+        titulo: "Gary Payton",
+        descricao: "Gary Dwayne Payton é um ex-armador norte-americano, conhecido por sua defesa e habilidade de roubar a bola. Ele conquistou um título da NBA com o Miami Heat em 2006.",
+        link: "https://pt.wikipedia.org/wiki/Gary_Payton",
+        tags: "The Glove, defesa, Heat, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Charles Barkley",
+        descricao: "Charles Wade Barkley é um ex-ala-pivô norte-americano, conhecido por sua força física e habilidades de rebote. Ele foi MVP da temporada regular em 1993.",
+        link: "https://pt.wikipedia.org/wiki/Charles_Barkley",
+        tags: "Barkley, MVP, rebotes, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Paul Pierce",
+        descricao: "Paul Anthony Pierce é um ex-jogador de basquete norte-americano, conhecido por sua habilidade de pontuar nos momentos decisivos. Ele conquistou um título da NBA com o Boston Celtics.",
+        link: "https://pt.wikipedia.org/wiki/Paul_Pierce",
+        tags: "Pierce, Celtics, campeão, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Ray Allen",
+        descricao: "Walter Ray Allen Jr. é um ex-armador norte-americano, conhecido por sua habilidade de arremesso de longa distância. Ele conquistou dois títulos da NBA com o Boston Celtics e o Miami Heat.",
+        link: "https://pt.wikipedia.org/wiki/Ray_Allen",
+        tags: "Allen, Celtics, Heat, arremesso de três, All-Star, campeão"
+    },
+    
+    {
+        titulo: "Kevin Garnett",
+        descricao: "Kevin Maurice Garnett é um ex-jogador norte-americano, conhecido por sua energia e defesa. Ele conquistou um título da NBA com o Boston Celtics e foi MVP da temporada regular em 2004.",
+        link: "https://pt.wikipedia.org/wiki/Kevin_Garnett",
+        tags: "KG, Celtics, Timberwolves, MVP, defesa, campeão"
+    },
+    
+    {
+        titulo: "Clyde Drexler",
+        descricao: "Clyde Austin Drexler é um ex-armador norte-americano, conhecido por suas habilidades atléticas e enterradas. Ele conquistou um título da NBA com o Houston Rockets.",
+        link: "https://pt.wikipedia.org/wiki/Clyde_Drexler",
+        tags: "Drexler, Rockets, enterradas, All-Star, campeão"
+    },
+    
+    {
+        titulo: "Dennis Rodman",
+        descricao: "Dennis Keith Rodman é um ex-ala-pivô norte-americano, conhecido por sua habilidade de rebote e defesa. Ele conquistou cinco títulos da NBA, três com o Chicago Bulls e dois com o Detroit Pistons.",
+        link: "https://pt.wikipedia.org/wiki/Dennis_Rodman",
+        tags: "Rodman, rebotes, defesa, Bulls, Pistons, lenda"
+    },
+    
+    {
+        titulo: "Alonzo Mourning",
+        descricao: "Alonzo Harding Mourning Jr. é um ex-pivô norte-americano, conhecido por sua habilidade defensiva e presença dominante no garrafão. Ele conquistou um título da NBA com o Miami Heat.",
+        link: "https://pt.wikipedia.org/wiki/Alonzo_Mourning",
+        tags: "Mourning, defesa, pivô, Heat, All-Star, campeão"
+    },
+    
+    {
+        titulo: "Jason Kidd",
+        descricao: "Jason Frederick Kidd é um ex-armador norte-americano, conhecido por sua habilidade de distribuir assistências e liderança em quadra. Ele conquistou um título da NBA com o Dallas Mavericks.",
+        link: "https://pt.wikipedia.org/wiki/Jason_Kidd",
+        tags: "Kidd, assistências, Mavericks, All-Star, campeão, lenda"
+    },
+    
+    {
+        titulo: "Reggie Miller",
+        descricao: "Reginald Wayne Miller é um ex-armador norte-americano, conhecido por sua habilidade de arremesso de três pontos. Ele jogou toda sua carreira pelo Indiana Pacers e é considerado um dos maiores arremessadores da história.",
+        link: "https://pt.wikipedia.org/wiki/Reggie_Miller",
+        tags: "Miller, arremesso de três, Pacers, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Tracy McGrady",
+        descricao: "Tracy Lamar McGrady Jr. é um ex-armador e ala norte-americano, conhecido por sua capacidade de pontuar e sua versatilidade. Ele foi sete vezes All-Star e duas vezes campeão de pontuação da NBA.",
+        link: "https://pt.wikipedia.org/wiki/Tracy_McGrady",
+        tags: "T-Mac, Rockets, pontuação, All-Star, lenda"
+    },
+    
+    {
+        titulo: "Penny Hardaway",
+        descricao: "Anfernee Deon 'Penny' Hardaway é um ex-armador norte-americano, conhecido por sua habilidade de passar e liderar em quadra. Ele jogou pelo Orlando Magic e foi quatro vezes All-Star.",
+        link: "https://pt.wikipedia.org/wiki/Penny_Hardaway",
+        tags: "Penny, Magic, armador, All-Star, versátil, lenda"
+    },
+    
+    {
+        titulo: "Manu Ginóbili",
+        descricao: "Emanuel David Ginóbili é um ex-armador argentino, conhecido por sua habilidade de criar jogadas e sua capacidade de decisão nos momentos importantes. Ele conquistou quatro títulos da NBA com o San Antonio Spurs.",
+        link: "https://pt.wikipedia.org/wiki/Manu_Ginóbili",
+        tags: "Ginóbili, Spurs, 4 títulos, All-Star, argentino, lenda"
+    },
+    
+    {
+        titulo: "Yao Ming",
+        descricao: "Yao Ming é um ex-pivô chinês, conhecido por sua altura e habilidade de pontuar no garrafão. Ele foi oito vezes All-Star durante sua carreira na NBA.",
+        link: "https://pt.wikipedia.org/wiki/Yao_Ming",
+        tags: "Yao, Rockets, pivô, All-Star, altura, lenda"
+    },
+    
+    {
+        titulo: "Vince Carter",
+        descricao: "Vincent Lamar Carter Jr. é um ex-armador norte-americano, conhecido por suas enterradas espetaculares e longevidade na NBA. Ele foi oito vezes All-Star durante sua carreira.",
+        link: "https://pt.wikipedia.org/wiki/Vince_Carter",
+        tags: "Vince, Raptors, enterradas, All-Star, longevidade, lenda"
+    }
 ];
