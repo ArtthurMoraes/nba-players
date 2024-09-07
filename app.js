@@ -7,7 +7,7 @@ function pesquisar() {
     let campoPesquisa = document.getElementById("campo-pesquisa").value
 
     if (!campoPesquisa) {
-        section.innerHTML = "<p>Para encontrar um jogador, preencha o campo acima!</p>"
+        section.innerHTML = "<p class='aviso'>Para encontrar um jogador, preencha o campo acima!</p>"
         return 
     }
 
@@ -45,7 +45,7 @@ function pesquisar() {
     }
 
     if (!resultados) {
-        resultados = "<p>Nenhum resultado foi encontrado!</p>"
+        resultados = "<p class='aviso'>Nenhum resultado foi encontrado!</p>"
     }
 
     // Atribui o conteúdo da string 'resultados' ao elemento HTML 'section'.
