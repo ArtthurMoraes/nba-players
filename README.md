@@ -16,3 +16,6 @@ Como usar:
 1. Clone este repositório.
 2. Abra o arquivo index.html em seu navegador.
 3. Digite o nome do jogador desejado no campo de pesquisa.
+
+Caso queira visualizar o projeto no navegador, acesse:
+> https://github.com/ArtthurMoraes/nba-players
